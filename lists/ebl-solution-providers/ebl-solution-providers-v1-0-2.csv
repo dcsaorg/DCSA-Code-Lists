@@ -1,0 +1,23 @@
+Code,Name,Remark
+AEOT,AEOTrade,
+BLOC,BlockPeer Technologies,
+BOLE,Bolero,
+BRIT,BRITC eBL,
+CARX,CargoX,
+CDX,ChainDoX,
+COVA,Covantis,
+CRED,Credore,
+DOCU,DocuTrade,
+EDOX,EdoxOnline,
+ESSD,EssDOCS,Deprecated. Do not use. Use IDT instead.
+ETEU,eTEU,
+ETIT,e-title,
+IDT,ICE Digital Trade,Formerly essDOCS (ESSD)
+IQAX,IQAX,
+KTNE,KTNET,
+PRTL,Portalis - Incubatrix,
+SECR,Secro,
+SGTD,SGTraDex,
+TRAC,Enigio trace:original,
+TRGO,TradeGO,
+WAVE,Wave,
